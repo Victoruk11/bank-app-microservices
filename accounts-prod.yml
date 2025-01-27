@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to VictorBank accounts related prod APIs "
   contactDetails:
     name: "amara sam product owner"
-    email: "amara sam....victoruk@gmail.com"
+    email: "{cipher}79a4940852daa73617f98a06ac061807d0334350c703093132b5f1a9c64645b7f1247ec3ab1a81308b7b674ba426f530"
     github: "https://github.com/victoruk"
   onCallSupport:
       - 08108109588

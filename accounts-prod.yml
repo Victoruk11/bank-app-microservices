@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to VictorBank accounts related prod APIs "
+  message: "Welcome to VictorBank accounts related production APIs "
   contactDetails:
     name: "amara sam product owner"
     email: "{cipher}79a4940852daa73617f98a06ac061807d0334350c703093132b5f1a9c64645b7f1247ec3ab1a81308b7b674ba426f530"

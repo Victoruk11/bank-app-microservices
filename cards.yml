@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to VictorBank accounts related QA APIs"
+  contactDetails:
+    name: "VictorBank-Developer"
+    email: "Tochukwu.victoruk@gmail.com"
+    github: "https://github.com/victoruk"
+  onCallSupport:
+    - 08108109588
+    - 08108109588

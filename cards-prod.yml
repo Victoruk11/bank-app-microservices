@@ -1,0 +1,12 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to VictorBank accounts related prod APIs "
+  contactDetails:
+    name: "amara sam product owner"
+    email: "amara sam....victoruk@gmail.com"
+    github: "https://github.com/victoruk"
+  onCallSupport:
+      - 08108109588
+      - 08071260340

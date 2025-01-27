@@ -1,0 +1,12 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to VictorBank accounts related QA APIs "
+  contactDetails:
+    name: "Mr sam QA Lead"
+    email: "sam....victoruk@gmail.com"
+    github: "https://github.com/victoruk"
+  onCallSupport:
+      - 08071260340
+      - 08071260340
